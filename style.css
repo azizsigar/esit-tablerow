@@ -1,0 +1,13 @@
+table{
+    border: 1px black solid;
+}
+th{
+    border: 1px black solid;
+    width: 5rem;
+}
+tr{
+    background-color: pink;
+}
+.tr2{
+    background-color:gray ;
+}
